@@ -1,0 +1,9 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\bin\Debug\CostWave2.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\obj\Debug\CostWave2.csprojResolveAssemblyReference.cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\obj\Debug\CostWave2.MainForm.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\obj\Debug\CostWave2.Properties.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\obj\Debug\CostWave2.csproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\bin\Debug\CostWave2.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\bin\Debug\CostWave2.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\obj\Debug\CostWave2.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\CostWave2\CostWave2\obj\Debug\CostWave2.pdb

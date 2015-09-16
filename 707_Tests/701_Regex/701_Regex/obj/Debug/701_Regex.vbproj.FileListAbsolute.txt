@@ -1,0 +1,10 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\bin\Debug\701_Regex.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\bin\Debug\701_Regex.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\bin\Debug\701_Regex.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\bin\Debug\701_Regex.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\obj\Debug\_701_Regex.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\obj\Debug\701_Regex.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\obj\Debug\701_Regex.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\obj\Debug\701_Regex.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\obj\Debug\701_Regex.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\701_Regex\701_Regex\obj\Debug\_701_Regex.MainForm.resources

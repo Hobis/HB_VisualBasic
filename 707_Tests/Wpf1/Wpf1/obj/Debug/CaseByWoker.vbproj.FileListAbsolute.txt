@@ -1,0 +1,15 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\MainWindow.baml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Application.baml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\MainWindow.g.vb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Application.g.vb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\CaseByWoker.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\CaseByWoker.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\CaseByWoker.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\CaseByWoker.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\CaseByWoker.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\CaseByWoker_MarkupCompile.cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\CaseByWoker.g.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\CaseByWoker.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\CaseByWoker.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\CaseByWoker.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\CaseByWoker.pdb

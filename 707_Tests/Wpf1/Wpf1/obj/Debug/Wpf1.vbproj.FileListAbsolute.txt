@@ -1,0 +1,15 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\Wpf1.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\Wpf1.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\Wpf1.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\bin\Debug\Wpf1.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\MainWindow.baml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\MainWindow.g.vb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Application.g.vb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Wpf1_MarkupCompile.cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Wpf1.g.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Wpf1.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Wpf1.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Wpf1.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Wpf1.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Wpf1.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Wpf1\Wpf1\obj\Debug\Application.baml
