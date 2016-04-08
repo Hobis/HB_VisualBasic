@@ -1,0 +1,12 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\bin\Debug\Roland.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\bin\Debug\Roland.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\bin\Debug\Roland.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\obj\Debug\Roland.csprojResolveAssemblyReference.cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\obj\Debug\Roland.FormMain.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\obj\Debug\Roland.Properties.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\obj\Debug\Roland.csproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\obj\Debug\Roland.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\obj\Debug\Roland.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\bin\Debug\Root\jquery-1.11.1.min.js
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\bin\Debug\Root\Root.html
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Roland\Roland\bin\Debug\Root\Root.swf

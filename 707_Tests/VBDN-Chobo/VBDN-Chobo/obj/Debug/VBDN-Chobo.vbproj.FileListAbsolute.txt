@@ -1,0 +1,10 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\bin\Debug\VBDN-Chobo.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\bin\Debug\VBDN-Chobo.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\bin\Debug\VBDN-Chobo.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\bin\Debug\VBDN-Chobo.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\obj\Debug\VBDN_Chobo.Form1.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\obj\Debug\VBDN_Chobo.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\obj\Debug\VBDN-Chobo.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\obj\Debug\VBDN-Chobo.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\obj\Debug\VBDN-Chobo.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\VBDN-Chobo\VBDN-Chobo\obj\Debug\VBDN-Chobo.pdb

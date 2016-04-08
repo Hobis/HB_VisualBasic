@@ -1,0 +1,11 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\bin\Debug\MSNS.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\bin\Debug\MSNS.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\bin\Debug\MSNS.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\bin\Debug\MSNS.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\obj\Debug\MSNS.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\obj\Debug\MSNS.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\obj\Debug\MSNS.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\obj\Debug\MSNS.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\obj\Debug\MSNS.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\obj\Debug\MSNS.FormRoot.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\MSNS\MSNS\bin\Debug\Swfs\Root.swf

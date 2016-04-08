@@ -1,0 +1,9 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

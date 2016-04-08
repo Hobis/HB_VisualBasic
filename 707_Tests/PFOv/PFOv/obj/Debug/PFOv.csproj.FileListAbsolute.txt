@@ -1,0 +1,13 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\bin\Debug\PFOv.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\bin\Debug\PFOv.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\bin\Debug\PFOv.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\PFOv.csproj.ResolveComReference.cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\PFOv.FrmRoot.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\PFOv.Properties.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\PFOv.csproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\PFOv.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\PFOv.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\bin\Debug\FlaRoot.swf
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\PFOv\PFOv\obj\Debug\PFOv.csprojResolveAssemblyReference.cache

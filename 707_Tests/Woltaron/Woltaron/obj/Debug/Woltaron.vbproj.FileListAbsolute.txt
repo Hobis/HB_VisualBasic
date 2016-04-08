@@ -1,0 +1,13 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\bin\Debug\Woltaron.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\bin\Debug\Woltaron.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\bin\Debug\Woltaron.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\bin\Debug\Woltaron.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\obj\Debug\Woltaron.FormRoot.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\obj\Debug\Woltaron.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\obj\Debug\Woltaron.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\obj\Debug\Woltaron.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\obj\Debug\Woltaron.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\obj\Debug\Woltaron.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\bin\Debug\Root\jquery-1.11.1.min.js
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\bin\Debug\Root\Root.html
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Woltaron\Woltaron\bin\Debug\Root\Root.swf

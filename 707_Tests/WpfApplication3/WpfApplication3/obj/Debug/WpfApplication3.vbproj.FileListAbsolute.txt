@@ -1,0 +1,15 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.vb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\Application.g.vb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref

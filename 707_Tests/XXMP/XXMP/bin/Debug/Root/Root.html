@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>main</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="jquery-1.11.1.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+// ::
+var p_Trace = function(msg) {
+	alert('# ' + msg);
+};
+
+// :: SwfObject Find
+var p_flas3_GetObject = function(sid) {
+	return jQuery('#' + sid)[0];
+};
+
+// :: SwfObject Call
+var p_flas3_Call = function(qStr) {
+	try {
+		window._RootSo.p_flas3_Call(qStr);
+	}
+	catch (e) {
+		p_Trace('Error: ' + e.toString());
+	}
+};
+
+// :: WinForm Call
+var p_wform_Call = function(qStr) {
+	try {
+		return window.external.wform_Call(qStr);
+	}
+	catch (e) {
+		return 'Error: ' + e.toString();
+	}
+};
+
+// - 도큐먼트 시작
+jQuery(document).ready(function() {
+	window._RootSo = p_flas3_GetObject('RootSo');
+});
+</script>
+<style type="text/css">
+body {
+	margin: 0px; padding: 0px; overflow: hidden;
+	background-color: #ffffff;
+	font-family: 굴림, 돋움, Vernada;
+	font-size: 11px;
+	color: #000000;
+}
+
+div#RootCont_dv {
+	position: absolute; left: 0px; top: 0px;
+	overflow: hidden;
+	width: 100%; height: 100%;
+}
+
+div.c-cont {
+	position: absolute; left: 0px; top: 0px;
+	overflow: hidden;
+	width: 100%; height: 100%;
+}
+</style>
+</head>
+
+<body>
+	<div id="RootCont_dv">
+		<div id="Cont_1" class="c-cont">
+			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="RootSo">
+				<param name="movie" value="Root.swf">
+				<param name="menu" value="false">
+				<param name="wmode" value="window">
+				<param name="allowfullscreen" value="true">
+				<param name="allowscriptaccess" value="always">
+				<param name="base" value=".">
+				<param name="flashvars" value="">
+				<!--[if !IE]>-->
+				<object type="application/x-shockwave-flash" data="Root.swf" width="100%" height="100%">
+					<param name="menu" value="false">
+					<param name="wmode" value="window">
+					<param name="allowfullscreen" value="true">
+					<param name="allowscriptaccess" value="always">
+					<param name="base" value=".">
+					<param name="flashvars" value="">
+				<!--<![endif]-->
+					<a href="http://www.adobe.com/go/getflashplayer">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+					</a>
+				<!--[if !IE]>-->
+				</object>
+				<!--<![endif]-->
+			</object>
+		</div>
+    </div>
+</body>
+
+</html>

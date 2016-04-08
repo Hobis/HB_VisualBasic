@@ -1,0 +1,28 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:My="clr-namespace:WpfApplication3.My" x:Class="MainWindow"
+    Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="365*"/>
+            <ColumnDefinition Width="152*"/>
+        </Grid.ColumnDefinitions>
+
+        <ComboBox Margin="22.361,175,10,0" VerticalAlignment="Top" Grid.Column="1">
+            <ComboBoxItem/>
+            <ComboBoxItem/>
+            <ComboBoxItem/>
+            <ComboBoxItem/>
+        </ComboBox>
+        <RichTextBox VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Height="234" Margin="106,32,0,0" VerticalAlignment="Top" Width="384" Grid.ColumnSpan="2">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                    <Run Text=" "/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

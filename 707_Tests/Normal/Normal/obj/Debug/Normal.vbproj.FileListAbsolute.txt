@@ -1,0 +1,10 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\bin\Debug\Normal.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\bin\Debug\Normal.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\bin\Debug\Normal.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\bin\Debug\Normal.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\obj\Debug\Normal.FrmRoot.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\obj\Debug\Normal.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\obj\Debug\Normal.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\obj\Debug\Normal.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\obj\Debug\Normal.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Normal\Normal\obj\Debug\Normal.pdb

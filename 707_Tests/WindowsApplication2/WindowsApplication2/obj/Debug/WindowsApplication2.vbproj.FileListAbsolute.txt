@@ -1,0 +1,11 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormMain.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache

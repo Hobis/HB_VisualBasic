@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html lang="kr">
+<head>
+<title>main</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script type="text/javascript" src="jquery-1.11.1.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+// ::
+var p_ArgsToArray = function(args) {
+/*
+	if (args == null) return null;
+	if (args.length < 1) return null;
+
+	var t_ra = [];
+	var t_la = args.length;
+	for (var i = 0; i < t_la; i++) {
+		t_ra.push(args[i]);
+	}
+	return t_ra;*/
+
+	return Array.prototype.slice.call(args);
+};
+
+// :: SwfObject Find
+var p_flas3_GetObject = function(sid) {
+	return jQuery('#' + sid)[0];
+};
+
+// :: SwfObject Call
+var p_flas3_Call = function() {
+
+	//alert(p_ArgsToArray(arguments));
+	//window._RootSo.p_flas3_Call(p_ArgsToArray(arguments));
+
+	//alert(args);
+	//alert(arguments.length);
+	//alert(typeof arguments[0]);
+	//alert(typeof arguments[1]);
+	//alert(typeof arguments[2]);
+
+	try {
+		window._RootSo.p_flas3_Call(p_ArgsToArray(arguments));
+	}
+	catch (e) {
+		//alert('p_flas3_Call Error: ' + e.toString());
+	}
+};
+
+// :: WinForm Call
+var p_wform_Call = function() {
+};
+
+var p_Test = function() {
+	alert(Array.prototype.slice.call(arguments));
+};
+
+// - 도큐먼트 시작
+jQuery(document).ready(function() {
+	window._RootSo = p_flas3_GetObject('RootSo');
+	//p_flas3_Call('p_Txt_Set', '씨발꺼');
+	//window._RootSo.p_flas3_Call([1, 2, 3]);
+	//p_Test(4, 3, 2, 1, 2, 3, 4);
+
+	//window._RootSo.p_flas3_Call.apply(null, ['p_Txt_Set', '1', '맘마미아']);
+	//alert(window._RootSo.p_flas3_Call(['p_Txt_Set', '1', '맘마미아']));
+	//alert(window.external.operand(100000000000000));
+});
+</script>
+<style type="text/css">
+body {
+	margin: 0px; padding: 0px; overflow: hidden;
+	background-color: #ffffff;
+	font-family: 굴림, 돋움, Vernada;
+	font-size: 11px;
+	color: #000000;
+}
+
+div#RootCont_dv {
+	position: absolute; left: 0px; top: 0px;
+	overflow: hidden;
+	width: 100%; height: 100%;
+}
+
+div.c-cont {
+	position: absolute; left: 0px; top: 0px;
+	overflow: hidden;
+	width: 100%; height: 100%;
+}
+</style>
+</head>
+
+<body>
+	<div id="RootCont_dv">
+		<!-- Root -->
+		<div id="Cont_1" class="c-cont">
+			<embed
+				id="RootSo"
+				type="application/x-shockwave-flash"
+				pluginspage="http://www.macromedia.com/go/getflashplayer"
+				width="100%"
+				height="100%"
+				menu="false"
+				src="Root.swf"
+				wmode="window"
+				allowScriptAccess="always"
+				allowFullScreen="true"
+				base="."
+				flashVars="" />
+		</div>
+    </div>
+</body>
+
+</html>

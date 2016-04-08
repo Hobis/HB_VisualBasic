@@ -1,0 +1,17 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\bin\Debug\Root\jquery-1.11.1.min.js
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\bin\Debug\Root\Root.html
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\bin\Debug\Root\Root.swf
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\bin\Debug\XXMP.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\bin\Debug\XXMP.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\bin\Debug\XXMP.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\bin\Debug\XXMP.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\obj\Debug\XXMP.FrmRoot.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\obj\Debug\XXMP.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\obj\Debug\XXMP.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\obj\Debug\XXMP.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\obj\Debug\XXMP.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\XXMP\XXMP\obj\Debug\XXMP.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Fake01\XXMP\bin\Debug\XXMP.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Fake01\XXMP\obj\Debug\XXMP.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Fake01\XXMP\obj\Debug\XXMP.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Fake01\XXMP\obj\Debug\XXMP.pdb

@@ -1,0 +1,6 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

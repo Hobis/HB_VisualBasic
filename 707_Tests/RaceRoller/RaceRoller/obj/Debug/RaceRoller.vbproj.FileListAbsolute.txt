@@ -1,0 +1,10 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\bin\Debug\RaceRoller.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\bin\Debug\RaceRoller.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\bin\Debug\RaceRoller.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\bin\Debug\RaceRoller.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\obj\Debug\RaceRoller.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\obj\Debug\RaceRoller.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\obj\Debug\RaceRoller.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\obj\Debug\RaceRoller.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\obj\Debug\RaceRoller.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\RaceRoller\RaceRoller\obj\Debug\RaceRoller.FormRoot.resources

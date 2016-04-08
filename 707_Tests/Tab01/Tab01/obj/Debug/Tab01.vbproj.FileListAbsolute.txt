@@ -1,0 +1,10 @@
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\bin\Debug\Tab01.exe.config
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\bin\Debug\Tab01.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\bin\Debug\Tab01.pdb
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\bin\Debug\Tab01.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\obj\Debug\Tab01.Form1.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\obj\Debug\Tab01.Resources.resources
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\obj\Debug\Tab01.vbproj.GenerateResource.Cache
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\obj\Debug\Tab01.exe
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\obj\Debug\Tab01.xml
+D:\Git_HobisWork\HB_VisualBasic\707_Tests\Tab01\Tab01\obj\Debug\Tab01.pdb
