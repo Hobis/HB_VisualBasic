@@ -1,0 +1,11 @@
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication7\ConsoleApplication7\bin\Release\ConsoleApplication7.exe.config
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\obj\Release\MainFormStarter.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\bin\Release\MainFormStarter.exe.config
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\bin\Release\MainFormStarter.exe
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\bin\Release\MainFormStarter.pdb
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\bin\Release\MainFormStarter.xml
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\obj\Release\MainFormStarter.MainForm.resources
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\obj\Release\MainFormStarter.Resources.resources
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\obj\Release\MainFormStarter.exe
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\obj\Release\MainFormStarter.xml
+D:\07_VisualBasic\Workspace_2013\MainFormStarter\MainFormStarter\obj\Release\MainFormStarter.pdb

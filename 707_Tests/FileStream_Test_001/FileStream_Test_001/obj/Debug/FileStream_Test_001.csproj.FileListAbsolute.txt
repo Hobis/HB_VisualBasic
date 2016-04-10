@@ -1,0 +1,6 @@
+D:\07_VisualBasic\Workspace_2013\FileStream_Test_001\FileStream_Test_001\bin\Debug\FileStream_Test_001.exe.config
+D:\07_VisualBasic\Workspace_2013\FileStream_Test_001\FileStream_Test_001\bin\Debug\FileStream_Test_001.exe
+D:\07_VisualBasic\Workspace_2013\FileStream_Test_001\FileStream_Test_001\bin\Debug\FileStream_Test_001.pdb
+D:\07_VisualBasic\Workspace_2013\FileStream_Test_001\FileStream_Test_001\obj\Debug\FileStream_Test_001.csprojResolveAssemblyReference.cache
+D:\07_VisualBasic\Workspace_2013\FileStream_Test_001\FileStream_Test_001\obj\Debug\FileStream_Test_001.exe
+D:\07_VisualBasic\Workspace_2013\FileStream_Test_001\FileStream_Test_001\obj\Debug\FileStream_Test_001.pdb

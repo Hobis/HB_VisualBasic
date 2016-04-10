@@ -1,0 +1,9 @@
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\bin\Debug\Generic.exe.config
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\bin\Debug\Generic.exe
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\bin\Debug\Generic.pdb
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\bin\Debug\Generic.xml
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\obj\Debug\Generic.Resources.resources
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\obj\Debug\Generic.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\obj\Debug\Generic.exe
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\obj\Debug\Generic.xml
+D:\07_VisualBasic\Workspace_2015\Generic\Generic\obj\Debug\Generic.pdb

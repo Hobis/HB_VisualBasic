@@ -1,0 +1,9 @@
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.xml
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.Resources.resources
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.xml
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

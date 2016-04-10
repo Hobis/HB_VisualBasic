@@ -1,0 +1,9 @@
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\bin\Debug\ConsoleApplication9.exe.config
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\obj\Debug\ConsoleApplication9.exe
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\obj\Debug\ConsoleApplication9.xml
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\obj\Debug\ConsoleApplication9.pdb
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\bin\Debug\ConsoleApplication9.exe
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\bin\Debug\ConsoleApplication9.pdb
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\bin\Debug\ConsoleApplication9.xml
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\obj\Debug\ConsoleApplication9.Resources.resources
+D:\07_VisualBasic\Workspace_2013\TonyStark_001\TonyStark_001\obj\Debug\TonyStark_001.vbproj.GenerateResource.Cache

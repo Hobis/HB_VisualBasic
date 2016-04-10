@@ -1,0 +1,6 @@
+D:\07_VisualBasic\Workspace_2013\NewEdge_001\NewEdge_001\bin\Debug\NewEdge_001.exe.config
+D:\07_VisualBasic\Workspace_2013\NewEdge_001\NewEdge_001\bin\Debug\NewEdge_001.exe
+D:\07_VisualBasic\Workspace_2013\NewEdge_001\NewEdge_001\bin\Debug\NewEdge_001.pdb
+D:\07_VisualBasic\Workspace_2013\NewEdge_001\NewEdge_001\obj\Debug\NewEdge_001.csprojResolveAssemblyReference.cache
+D:\07_VisualBasic\Workspace_2013\NewEdge_001\NewEdge_001\obj\Debug\NewEdge_001.exe
+D:\07_VisualBasic\Workspace_2013\NewEdge_001\NewEdge_001\obj\Debug\NewEdge_001.pdb

@@ -1,0 +1,8 @@
+D:\07_VisualBasic\Workspace_2015\WinForm002\bin\Debug\WinForm002.exe.config
+D:\07_VisualBasic\Workspace_2015\WinForm002\bin\Debug\WndTool_x86.exe.config
+D:\07_VisualBasic\Workspace_2015\WinForm002\obj\Debug\WndTool_x86.exe
+D:\07_VisualBasic\Workspace_2015\WinForm002\obj\Debug\WndTool_x86.xml
+D:\07_VisualBasic\Workspace_2015\WinForm002\obj\Debug\WndTool_x86.pdb
+D:\07_VisualBasic\Workspace_2015\WinForm002\obj\Debug\WndTool_x86.Dialog1.resources
+D:\07_VisualBasic\Workspace_2015\WinForm002\obj\Debug\WndTool_x86.Form1.resources
+D:\07_VisualBasic\Workspace_2015\WinForm002\obj\Debug\WinForm002.vbproj.GenerateResource.Cache

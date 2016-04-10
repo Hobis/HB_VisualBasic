@@ -1,0 +1,9 @@
+# 프로그램이 정상적으로 실행되지 않을때
+
+
+1) .NET Framework를 설치하여주세요.
+	+ install/DotNetFx35ClientSetup.exe
+
+2) Flash Player를 설치하여주세요.
+	+ install/flashplayer11_9r900_170_winax.exe
+	+ (잘 설치가 되지 않을시) flashplayer11_9r900_170_winax.exe 실행후 설치

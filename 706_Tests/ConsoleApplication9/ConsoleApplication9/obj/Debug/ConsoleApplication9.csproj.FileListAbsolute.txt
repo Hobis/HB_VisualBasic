@@ -1,0 +1,6 @@
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+D:\07_VisualBasic\Workspace_2013\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

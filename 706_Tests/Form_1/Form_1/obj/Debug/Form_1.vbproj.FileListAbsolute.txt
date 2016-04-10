@@ -1,0 +1,10 @@
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\bin\Debug\Form_1.exe.config
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\bin\Debug\Form_1.exe
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\bin\Debug\Form_1.pdb
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\bin\Debug\Form_1.xml
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\obj\Debug\Form_1.Resources.resources
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\obj\Debug\Form_1.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\obj\Debug\Form_1.exe
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\obj\Debug\Form_1.xml
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\obj\Debug\Form_1.pdb
+D:\07_VisualBasic\Workspace_2013\Form_1\Form_1\obj\Debug\Form_1.Form1.resources

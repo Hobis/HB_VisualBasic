@@ -1,0 +1,9 @@
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\bin\Debug\Study_001.exe.config
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\obj\Debug\Study_001.Resources.resources
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\obj\Debug\Study_001.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\bin\Debug\Study_001.exe
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\bin\Debug\Study_001.pdb
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\bin\Debug\Study_001.xml
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\obj\Debug\Study_001.exe
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\obj\Debug\Study_001.xml
+D:\07_VisualBasic\Workspace_2013\Study_001\Study_001\obj\Debug\Study_001.pdb

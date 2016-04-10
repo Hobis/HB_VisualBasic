@@ -1,0 +1,11 @@
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\bin\Debug\Kolpik.exe
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\bin\Debug\Kolpik.pdb
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\bin\Debug\Kolpik.xml
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\obj\Debug\Kolpik.Form1.resources
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\obj\Debug\Kolpik.Resources.resources
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\obj\Debug\Kolpik.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\obj\Debug\Kolpik.exe
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\obj\Debug\Kolpik.xml
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\obj\Debug\Kolpik.pdb
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\obj\Debug\Kolpik.Dialog1.resources
+D:\07_VisualBasic\Workspace_2015\Kolpik\Kolpik\bin\Debug\Kolpik.exe.config

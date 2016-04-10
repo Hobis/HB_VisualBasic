@@ -1,0 +1,15 @@
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\bin\Debug\TestAffair_002.exe
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\bin\Debug\TestAffair_002.pdb
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\bin\Debug\TestAffair_002.xml
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\TestAffair_002.HB_Form.resources
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\TestAffair_002.Resources.resources
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\TestAffair_002.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\TestAffair_002.exe
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\TestAffair_002.xml
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\TestAffair_002.pdb
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\bin\Debug\TestAffair_002.exe.config
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\TestAffair_002.vbproj.ResolveComReference.cache
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\07_VisualBasic\Workspace_2013\TestAffair_002\TestAffair_002\obj\Debug\AxInterop.ShockwaveFlashObjects.dll

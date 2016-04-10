@@ -1,0 +1,12 @@
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\bin\Debug\HCmd.exe.config
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\bin\Debug\HCmd.exe
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\bin\Debug\HCmd.pdb
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\bin\Debug\HCmd.xml
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\obj\Debug\HCmd.Resources.resources
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\obj\Debug\HCmd.vbproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\obj\Debug\HCmd.exe
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\obj\Debug\HCmd.xml
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\obj\Debug\HCmd.pdb
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\bin\Debug\Interop.Shell32.dll
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\obj\Debug\Interop.Shell32.dll
+D:\07_VisualBasic\Workspace_2015\HCmd\HCmd\obj\Debug\HCmd.vbproj.ResolveComReference.cache

@@ -1,0 +1,9 @@
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\bin\Debug\CaseByLogical_001.exe.config
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\obj\Debug\CaseByLogical_001.csprojResolveAssemblyReference.cache
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\obj\Debug\CaseByLogical_001.Properties.Resources.resources
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\obj\Debug\CaseByLogical_001.csproj.GenerateResource.Cache
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\bin\Debug\CaseByLogical_001.exe
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\bin\Debug\CaseByLogical_001.pdb
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\obj\Debug\CaseByLogical_001.MainForm.resources
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\obj\Debug\CaseByLogical_001.exe
+D:\07_VisualBasic\Workspace_2013\CaseByLogical_001\CaseByLogical_001\obj\Debug\CaseByLogical_001.pdb

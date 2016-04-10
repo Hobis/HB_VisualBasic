@@ -1,0 +1,97 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: TJEFxOkitN1AaF5VWr6oOsl+Ny4=
+
+Name: res/layout/ssl_certificate_warning.xml
+SHA1-Digest: 58obXn1jHU6uyN2dEY5jwz22iKw=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: QPDMHuNyVVKf0cuz1888i/j5Nrw=
+
+Name: lib/armeabi-v7a/libysshared.so
+SHA1-Digest: dzi1N0pFyMOAaMKvPv6ABsC9JrQ=
+
+Name: res/raw/startga.html
+SHA1-Digest: vtbLpFCE/puG1tIThIFDVjSuAWM=
+
+Name: lib/armeabi-v7a/libstagefright_honeycomb.so
+SHA1-Digest: ZeXcgINw6xhhPkyYKZ7NQyz6esU=
+
+Name: assets/Main.swf
+SHA1-Digest: U8DhL3Fg2VSulVgy9eQFhXeYPpQ=
+
+Name: resources.arsc
+SHA1-Digest: iYhqyTQ+dM3IT/JR3HOJaA5yTlE=
+
+Name: res/raw/rgba8888
+SHA1-Digest: Zl1hFYFfIU3ykjjlwvkAPiOpbjU=
+
+Name: res/raw/debuginfo
+SHA1-Digest: tDkq9Am9IICKEyUpUxv9SZC2Ido=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 7nSGgDYU1uSqgAM2XNz09GJPeNM=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: G+CvtzpiU9txq2gTLj4HxmaZS50=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: VTkxupV09wnli+N5kgDBwnfHpXw=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: XelRLwXN1qIfvDgGYamXIy8m+Vs=
+
+Name: lib/armeabi-v7a/libCore.so
+SHA1-Digest: iUbOYMUXeHhGIBBapFcSMXNhJjA=
+
+Name: res/layout/expandable_multiple_chooser_row.xml
+SHA1-Digest: +NgZVdn4VOVpbHlvL/Ps+wfqQGc=
+
+Name: res/layout/multiple_file_selection_panel.xml
+SHA1-Digest: YkITCA1eKC3sM4jPSDoj0o/d1WE=
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA1-Digest: SNK0mC1mLiQ2P2vqMskJbRMtejQ=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: uPJrLhU14MHd1EB4gal5Y03MtEM=
+
+Name: res/raw/adobelogo.gif
+SHA1-Digest: C230O0R3bbZIa6/Fr6jyvOCeYw0=
+
+Name: res/raw/icon.jpg
+SHA1-Digest: v/gTscGJUwTvt36BgaX6qc4zgsc=
+
+Name: assets/adobeair.vch
+SHA1-Digest: wneEqsV+IDyR6Cve7IO3SZOUZC8=
+
+Name: classes.dex
+SHA1-Digest: DsFJMZreNhh+uzURSlEzuajacd8=
+
+Name: res/drawable/air_72px_mobile_eula.png
+SHA1-Digest: ivKE0pXSnLTzY00/y11WM+leyiM=
+
+Name: res/layout/main.xml
+SHA1-Digest: VU8PoI22Iz9426AEvoKjF/wRaD8=
+
+Name: lib/armeabi-v7a/libstagefright_froyo.so
+SHA1-Digest: FkBTDj9QFTsvDw88Uw1iiAX68j8=
+
+Name: res/layout/expandable_chooser_row.xml
+SHA1-Digest: dApNLs86drjUdk/MG29/3ZibQzg=
+
+Name: lib/armeabi-v7a/libstlport_shared.so
+SHA1-Digest: 92uAwTKMAKfFUfRyhaYNTdr/gIQ=
+
+Name: res/drawable-hdpi/home.png
+SHA1-Digest: H0q+zHOICtJxQeaWImKsX91vu2Q=
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA1-Digest: AYeAlZLgIg2apaASwxgKglh876U=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: ZuZpnjPpOYiEcQelmaR1+7+shs8=
+
+Name: res/drawable-xhdpi/ouya_icon.png
+SHA1-Digest: 3x1XluSqpWy6mzvwLAk3Cmf5XJI=
+
