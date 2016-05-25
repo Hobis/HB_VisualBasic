@@ -52,11 +52,14 @@ Public NotInheritable Class FrmRoot
     End Sub
 
     Private Sub p_TxtRoot_Append(v As String)
-        If Me.InvokeRequired Then
-            Me.Invoke(CType(AddressOf p_TxtRoot_Append, Action(Of String)), New Object() {v})
-        Else
-            _TxbRoot.AppendText(v & vbNewLine)
-        End If
+        Try
+            If Me.InvokeRequired Then
+                Me.Invoke(CType(AddressOf p_TxtRoot_Append, Action(Of String)), New Object() {v})
+            Else
+                _TxbRoot.AppendText(v & vbNewLine)
+            End If
+        Catch
+        End Try
     End Sub
 
 
