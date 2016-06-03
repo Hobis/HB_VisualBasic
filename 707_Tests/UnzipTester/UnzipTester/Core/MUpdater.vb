@@ -97,13 +97,15 @@ Public Module MUpdater
         p_DownloadZip_Clear()
         Dim t_uri As Uri
         Try
+            _DownloadZipUrl = "http://play.afreecatv.com/kss7749/175874775/jhasd.zip"
             t_uri = New Uri(_DownloadZipUrl)
             _WebClient = New WebClient()
             AddHandler _WebClient.DownloadProgressChanged, AddressOf p_DownloadZip_DownloadProgressChanged
             AddHandler _WebClient.DownloadFileCompleted, AddressOf p_DownloadZip_DownloadFileCompleted
             p_CallBack({CallBackType_AppendText, "# 다운로드 시작: ~~~~"})
             _WebClient.DownloadFileAsync(t_uri, _TargetZipFilePath)
-        Catch
+        Catch ex As Exception
+            MsgBox("~~: " & ex.ToString())
             p_DownloadZip_Clear()
         End Try
     End Sub
